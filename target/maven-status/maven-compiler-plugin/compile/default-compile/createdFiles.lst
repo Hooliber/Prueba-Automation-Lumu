@@ -1,0 +1,7 @@
+io/lumu/tasks/NavigateTheBrowser.class
+io/lumu/tasks/EnterTextField.class
+io/lumu/ui/PrincipalPage.class
+io/lumu/steps/ParameterStepDefinitions.class
+io/lumu/tasks/KeywordDensity.class
+io/lumu/tasks/LeftCount.class
+io/lumu/steps/NavigateTheBrowser.class
